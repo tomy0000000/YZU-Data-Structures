@@ -6,6 +6,6 @@
 | ---- | ------------------------------------------------------------ |
 | 1    | [STL Deque](http://www.cplusplus.com/reference/deque/deque/) |
 | 2    | [STL Unordered Set](http://www.cplusplus.com/reference/unordered_set/) |
-| 3    | [STL Set](http://www.cplusplus.com/reference/set/)           |
+| 3    | [STL Set](http://www.cplusplus.com/reference/set/) (Red Black Tree) |
 | 4    | Sparse Matrix                                                |
 
