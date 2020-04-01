@@ -9,3 +9,10 @@
 | 3    | [STL Set](http://www.cplusplus.com/reference/set/) (Red Black Tree) |
 | 4    | Sparse Matrix                                                |
 
+## Exams
+
+| #            | Title                   |
+| ------------ | ----------------------- |
+| Midterm Exam | STL Deque               |
+| Final Exam   | STL Set + Sparse Matrix |
+
